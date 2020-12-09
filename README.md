@@ -1,4 +1,4 @@
-# Python for Beginners Course
+# Intermediate Python Course
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChasNelson1990/python-zero-to-hero-beginners-course/main)
 
